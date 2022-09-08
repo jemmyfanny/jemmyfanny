@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jemmyfanny
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning software testing
-- 💞️ I’m looking to collaborate on any software tester
+- 💞️ I’m looking to collaborate on any software testing activities 
 - 📫 How to reach me on gmail @ jemmyfanny@gmail.com...
 
 <!---
